@@ -52,43 +52,61 @@ The application enables users to securely manage expenses while receiving real-t
 
 
 expensetracker/
+
 │
-├── expensetracker/          # Spring Boot Backend
-├── expensetrackerwebapp/    # React Frontend
+
+├── expensetracker/       =   (Spring Boot Backend)
+
+├── expensetrackerwebapp/  =   (React Frontend)
+
 └── README.md
 
+
 ---
+
+
 
 ⚙️ Setup & Installation
 ---
 
 🔹 Backend Setup
+---
 
 Clone the repository:
+
 
 git clone https://github.com/your-username/expense-tracker.git
 
 Configure the database in application.properties
 
-Run the backend:
 
-.\mvnw spring-boot:run
 
+- Run the backend:
+
+
+  .\mvnw spring-boot:run
+
+---
 
 🔹 Frontend Setup
+---
 
 Navigate to frontend folder:
 
+
 cd expensetrackerwebapp
 
-Install dependencies:
-
-npm install
 
 
-Start the frontend:
+- Install dependencies:
 
-npm run dev
+  npm install
+
+
+
+- Start the frontend:
+
+  npm run dev
 
 ---
 
