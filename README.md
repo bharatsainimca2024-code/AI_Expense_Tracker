@@ -138,8 +138,8 @@ RESTful endpoints ensure clean and reliable data flow
 
 Astha Mishra
 
-📧 Email: asthamisracse@gmail.com
+📧 Email: bharat.saini.mca.2024@miet.ac.in
 
-🔗 LinkedIn: www.linkedin.com/in/astha-mishra-8a7116299
+🔗 LinkedIn: https://www.linkedin.com/in/bharat-saini-a549a5333?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
